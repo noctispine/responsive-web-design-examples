@@ -1,0 +1,72 @@
+main {
+    background-color: rgb(243, 238, 237);
+
+}
+
+body {
+    color: #333;
+    line-height: 1.5;
+}
+
+#headdiv {
+    text-align: center;
+    background-color: rgb(230, 227, 226);
+    padding: 0.5rem 0 0.5rem 0;
+    margin: 1.5rem 0 1.5rem 0;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+#headname {
+    font-size: 3.5rem;
+}
+
+#img-div {
+    background-color: white;
+    text-align: center;
+    margin: 2rem;
+    padding: 0.5rem;
+
+    
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h2{
+    text-align: center;
+    
+}
+blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+}
+
+
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    margin: 1rem;
+}
+
+h3 {
+    text-align: center;
+    padding: 50px;    
+    
+}
+
+#img-caption {
+    padding-top: 1.7rem;
+}
